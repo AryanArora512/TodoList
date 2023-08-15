@@ -1,6 +1,8 @@
 # todolist
 
-This Todo list app built with Flutter provides a clean and intuitive user interface for organizing tasks. Users can create, update, and categorize tasks with ease. The app also alerts users of upcoming deadlines and allows for the ability to set reminders. With its cross-platform compatibility, users can easily access their tasks from their mobile devices, tablets, and computers. This app is perfect for anyone looking for a simple and effective way to manage their daily to-do list.
+This Todo list app built with Flutter provides a clean and intuitive user interface for organizing tasks. Users can create, update, and Delete tasks with ease. With its cross-platform compatibility, users can easily access their tasks from their mobile devices, tablets, and computers. This app is perfect for anyone looking for a simple and effective way to manage their daily to-do list. 
+
+
 A new Todo List Flutter project.
 
 
